@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaiden Buchter
-- 👀 I’m interested in making Discord Bots and FivePD callouts.
+- 👀 I’m interested in making Discord Bots and FivePD Callouts.
 - 🌱 I’m currently learning C# and JS
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me: N/A
