@@ -2,5 +2,4 @@
 - 👀 I’m interested in making Discord Bots and FivePD callouts.
 - 🌱 I’m currently learning C# and JS
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me:
-- Discord: .husky_
+- 📫 How to reach me: N/A
