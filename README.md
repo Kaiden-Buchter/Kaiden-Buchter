@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Kaiden Buchter
 - 👀 I’m interested in making Websites
-- 🌱 I’m currently learning C#, HTML, CSS, Ajax, PHP, JS, and PHP
+- 🌱 I’m currently learning C#, HTML, CSS, Ajax, PHP, JS, TS, and PHP
